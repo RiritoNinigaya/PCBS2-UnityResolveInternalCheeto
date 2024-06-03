@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 571 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PCBS2-UnityResolveEdition.vcxproj -> C:\Users\mkxzis\source\repos\PCBS2-UnityResolveEdition\x64\Release\PCBS2-UnityResolveEdition.dll
